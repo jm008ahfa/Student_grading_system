@@ -1,0 +1,16 @@
+{
+    "name": "alarcon/gs",
+    "description": "Basic student grading system",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alarcon\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alarcon J"
+        }
+    ],
+    "require": {}
+}
