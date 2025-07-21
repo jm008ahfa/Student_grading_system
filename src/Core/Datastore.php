@@ -1,6 +1,6 @@
 <?php
 
-namespace Alarcon\Gs\core;
+namespace Alarcon\Gs\Core;
 
 class Datastore 
 {
